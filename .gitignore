@@ -1,0 +1,5 @@
+target/
+abc.txt
+*.log
+**/testreport.html
+
